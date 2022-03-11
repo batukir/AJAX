@@ -1,8 +1,6 @@
 #! /usr/bin/perl -w
 
 # zip2state.cgi - print the state where a zip code is
-#
-# D Provine, 7 March 2022
 
 use strict;
 use warnings;
